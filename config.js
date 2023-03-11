@@ -84,10 +84,6 @@ global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
 global.wm2 = 'Aryeuhh '
 global.wm3 = ' ArxDip-Bot '
-
-
-
-
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`

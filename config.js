@@ -87,7 +87,7 @@ global.wm3 = ' ArxDip-Bot '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `AMELIA PUTRI SEPTIANY`
+global.titlebot = `ArxDip-MD`
 global.stickpack = 'ArxDip-Bot'
 global.gcname = 'ArxDip-MD'
 global.nameown1= 'Azhari'
@@ -117,7 +117,7 @@ global.gcwangsaf = '-'
 global.fakeyt = '-'
 global.snh = '-'
 global.syt = '-'
-global.tik = 'https://www.tiktok.com/'
+global.tik = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '0896 5270 7119'
@@ -125,7 +125,7 @@ global.povo = '0896 5270 7119'
 global.plinkaja = '-' //link aja
 global.pgopay = '0896 5270 7119'
 global.ppulsa = '0812 1027 3100'
-global.ppulsa2 = '081210273100'
+global.ppulsa2 = '081511393216'
 global.psaweria = '-'
 
 
@@ -314,7 +314,7 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/da9f4b5973a80981079b9.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/ddf61e023d4ccac1a56e7.jpg' //Main Thumbnail
 global.thumbnail = 'https://telegra.ph/file/974d7f7ff054d5491ae82.jpg'
 global.thumb2 = 'https://telegra.ph/file/d5795084974fa38d388ce.jpg'
 global.imagebot = 'https://telegra.ph/file/da9f4b5973a80981079b9.jpg'
@@ -327,8 +327,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e72de2cbba03f58eba7d1.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/a3580f688b4f4d5762662.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/ddf61e023d4ccac1a56e7.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
@@ -493,9 +493,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://www.instagram.com/ary.dprj"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0838 6372 7401'
+global.phn = '0896 5270 7119'
 
 // ⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WARNING JGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
